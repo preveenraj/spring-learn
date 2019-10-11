@@ -22,10 +22,13 @@
         </property>
     </bean>
     
+   
+    
      <bean id="departmentBean" class="com.cognizant.springlearn.bean.Department">
         <property name="id" value="1" />
         <property name="name" value="Payroll" />
     </bean>
+    
     
          <bean id="skillHtml" class="com.cognizant.springlearn.bean.Skill">
         <property name="id" value="1" />
