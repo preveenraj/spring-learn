@@ -36,7 +36,10 @@ public class SpringLearnApplication {
 	private static final Logger LOGGER = LoggerFactory.getLogger(SpringLearnApplication.class);
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(SpringLearnApplication.class, args);
+		
+	
 	
 		
 //		 displayDate();
